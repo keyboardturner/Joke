@@ -1,0 +1,7 @@
+## Interface: 70100
+## Author: Keyboardturner
+## Version: 0.0.1
+## Title: Joke
+## Notes: Makes /joke an actual emote.
+
+Joke.lua
