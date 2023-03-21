@@ -1,6 +1,6 @@
-## Interface: 100002
+## Interface: 100007
 ## Author: Keyboardturner
-## Version: 0.0.2
+## Version: 0.0.4
 ## Title: Joke
 ## Notes: Makes /joke an actual emote.
 
