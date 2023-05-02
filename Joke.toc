@@ -1,7 +1,8 @@
-## Interface: 100007
+## Interface: 100100
 ## Author: Keyboardturner
-## Version: 0.0.4
+## Version: 0.0.5
 ## Title: Joke
 ## Notes: Makes /joke an actual emote.
+## IconTexture: Interface/Icons/Spell_misc_emotionhappy.blp
 
 Joke.lua
