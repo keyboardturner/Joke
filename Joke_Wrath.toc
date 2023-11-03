@@ -1,7 +1,11 @@
 ## Interface: 30402
 ## Author: Keyboardturner
-## Version: 0.0.6
+## Version: @project-version@
 ## Title: Joke
 ## Notes: Makes /joke an actual emote.
+## IconTexture: Interface/Icons/Spell_misc_emotionhappy.blp
+## X-Curse-Project-ID: 262939
+## X-WoWI-ID: 26485
+## X-Wago-ID: xZKx9QGk
 
 Joke.lua
