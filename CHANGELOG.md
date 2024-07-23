@@ -1,6 +1,10 @@
-# 0.1.1
+# 0.1.2
 
 TOC updates for TWW
+
+# 0.1.1
+
+Cata suffix fix
 
 # 0.1.0
 
