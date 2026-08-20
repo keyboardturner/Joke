@@ -1,3 +1,7 @@
+# 0.2.7
+
+TBC toc support and classic toc updates
+
 # 0.2.6
 
 12.1.0 toc update

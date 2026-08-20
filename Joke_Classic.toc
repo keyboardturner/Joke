@@ -1,4 +1,4 @@
-## Interface: 11508
+## Interface: 11509
 ## Author: Keyboardturner
 ## Version: @project-version@
 ## Title: Joke
@@ -7,5 +7,17 @@
 ## X-Curse-Project-ID: 262939
 ## X-WoWI-ID: 26485
 ## X-Wago-ID: xZKx9QGk
+
+## Category-enUS: Other
+## Category-deDE: Anderes
+## Category-esES: Otros
+## Category-esMX: Otros
+## Category-frFR: Autre
+## Category-itIT: Altro
+## Category-koKR: 기타
+## Category-ptBR: Outro
+## Category-ruRU: Другое
+## Category-zhCN: 其它
+## Category-zhTW: 其他
 
 Joke.lua
